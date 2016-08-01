@@ -1,8 +1,8 @@
 {
   "generator-react-webpack": {
-    "appName": "galleryByReact",
-    "style": "sass",
-    "postcss": true,
+    "appName": "reactWebpack",
+    "style": "scss",
+    "postcss": false,
     "generatedWithVersion": 3
   }
 }
